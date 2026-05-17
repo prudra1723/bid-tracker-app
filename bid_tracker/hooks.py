@@ -1,6 +1,6 @@
 app_name = "bid_tracker"
 app_title = "Bid Tracker"
-app_publisher = "OpenAI"
+app_publisher = "Rudra Pandey"
 app_description = "Custom ERPNext module for pre-contract bid tracking"
 app_email = "bidtrackererpnext@gmail.com"
 app_license = "MIT"
@@ -30,6 +30,8 @@ fixtures = [
     "Workflow Action Master",
     "Notification",
     "Role",
+    "Custom Field",
+    "Property Setter",
     "Dashboard",
     "Dashboard Chart",
     "Number Card",
