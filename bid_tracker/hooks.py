@@ -29,6 +29,7 @@ fixtures = [
     "Workflow State",
     "Workflow Action Master",
     "Notification",
+    "Email Account",
     "Role",
     "Custom Field",
     "Property Setter",
